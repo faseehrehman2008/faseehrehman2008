@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faseehrehman2008](https://github.com/faseehrehman2008)
 
-- 💬 Ask me about **C++, Editing, colour Grading**
+- 💬 Ask me about **C++, Python, Editing, colour Grading**
 
 - 📫 How to reach me **faseehrehman2008@gmail.com**
 
